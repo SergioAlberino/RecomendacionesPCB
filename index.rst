@@ -28,15 +28,19 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 .. toctree::
    :maxdepth: 2
    :caption: Datos del documento
-   
-   Datos del documento <rotulo/rotulo.rst>
+   Datos <rotulo/rotulo.rst>
    Installation
 
 .. toctree::
    :maxdepth: 2
    :caption: Diseño
-   
    componentes <componentes/componentes.rst>
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Esquematico
+   esquematico <esquematico/esquematico.rst>
 
 
 .. toctree::
