@@ -35,18 +35,16 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
    :maxdepth: 2
    :caption: Diseño
    componentes <componentes/componentes.rst>
-
+      Installation
 
 .. toctree::
    :maxdepth: 2
    :caption: Esquematico
    esquematico <esquematico/esquematico.rst>
-
-
+   Installation
 .. toctree::
    :maxdepth: 2
    :caption: Publications   
-
 
 .. toctree::
    :maxdepth: 2
