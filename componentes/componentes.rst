@@ -1,6 +1,9 @@
-Grupo de Inteligencia Artificial y Robótica
+********
+Componentes
+********
 
 # **Componentes**
+=========================
 
 A continuación se detallan los tips para la creación y gestión de los componentes, tanto para los símbolos esquemáticos como para los footprints
 
@@ -15,8 +18,10 @@ A continuación se detallan los tips para la creación y gestión de los componente
     librería dado que está incluida en el proyecto.
 
 .. image:: ../media/img/simbolo1.png
-   :align: right
+   :align: left
    :scale: 50 %
+
+
 
 -   Agregar al componente toda la información adicional que sea posible y que
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
