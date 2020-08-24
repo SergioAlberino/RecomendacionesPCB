@@ -1,5 +1,13 @@
 .. Recomendaciones PCB
 
+***************
+Recomendaciones PCB
+***************
+
+.. image:: media/img/default.jpg
+   :align: right
+   :scale: 50 %
+
 Objetivos
 ---------
 En el presente documento se detallan distintos tips, consejos y recomendaciones
@@ -14,21 +22,6 @@ mención correspondiente.
 Cabe destacar que este documento fue creado bajo la premisa de “consejos y tips”
 y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
-
-
-+----------------------------------------------------------------------------+
-| Recomendaciones y buenas costumbres para el diseño de Hardware             |
-+===============+============================================================+
-| Espacio/s     | Laboratorio de Mediciones y Ensayos,   					 |
-|  	            | Prácticas Profesionalizantes           					 |
-+---------------+------------------------------------------------------------+
-|			    | Foltyn, Pablo Andrés 										 |
-| Autor/es 	    | Dominici, Juan Manuel									     |
-|			    | Alberino, Sergio 											 |
-+---------------+------------------------------------------------------------+
-| Destinatarios	| Alumnos de 5º y 6º año de la Especialidad Electrónica      |
-+---------------+------------------------------------------------------------+
-
 
 
 

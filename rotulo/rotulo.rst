@@ -2,8 +2,20 @@
 # **Datos del documento**
 
 
-+----------------------------------------------------------------------------+
-| Recomendaciones y buenas costumbres para el diseño de Hardware             |
+
++------------------------------+-------+
+| **Comunicación inalámbrica** |       |
++==============================+=======+
+| Modulo Xbee                  |       |
++------------------------------+-------+
+| Alcance                      | xx m  |
++------------------------------+-------+
+| Frecuencia de operación      | xx Hz |
++------------------------------+-------+
+
+
++---------------+------------------------------------------------------------+
+| 			 	| Recomendaciones y buenas costumbres para el diseño de PCB  |
 +===============+============================================================+
 | Espacio/s     | Laboratorio de Mediciones y Ensayos,   					 |
 |  	            | Prácticas Profesionalizantes           					 |
