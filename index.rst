@@ -2,14 +2,19 @@
 
 Objetivos
 ---------
+En el presente documento se detallan distintos tips, consejos y recomendaciones
+para el buen diseño de Hardware, abordando desde reglas de diseño básicas, tips
+para un buen placement de componentes en el PCB, la creación de los componentes
+con sus símbolos y footprints hasta su posicionamiento y ruteo dentro del PCB.
+Los temas aquí presentados no hacen referencia a ningún CAD de diseño de PCB
+específico si no que se aborda el tema desde un punto de vista genérico y en
+caso de utilizar alguna funcionalidad puntual de un CAD específico se hará la
+mención correspondiente.
 
-Se propone el desarrollo de un robot con arquitectura de control distribuida, para que actúe en un ambiente parcialmente estructurado donde, eventualmente, se distribuirán marcas en el terreno (artificiales o naturales), al efecto de colaborar con su localización. Estará dotado de sensores ultrasónicos, ópticos y mecánicos.
- 
-Como objetivo intermedio se propone el desarrollo de un segundo robot móvil, que será utilizado como socio, para la implementación de las estrategias colaborativas, utilizando las lecciones aprendidas durante el desarrollo de robots anteriores.
- 
-Este proyecto tendrá en consideración la utilización de componentes fácilmente adquiribles en el mercado local, que permita su adaptación a distintos problemas y que faciliten su transferencia al medio.
+Cabe destacar que este documento fue creado bajo la premisa de “consejos y tips”
+y está basado en los conocimientos y experiencias de los autores, no debe ser
+tomado como obligatorio a menos de que sea explícitamente indicado.
 
-La finalidad del presente proyecto es, además de la concreción del “objetivo central”, generar experiencia en robótica colaborativa, por parte de todos los integrantes del grupo. Generar nuevas técnicas y herramientas y, al dar soluciones concretas a problemas de ingeniería, crear nuevo conocimiento y difusión mediante comunicaciones a congresos científicos, revistas y actividad de extensión.
 
 
 .. toctree::
