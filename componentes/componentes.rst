@@ -13,7 +13,9 @@ componentes, tanto para los símbolos esquemáticos como para los footprints
     decir si el proyecto es controlado por varias personas todas poseen la misma
     librería dado que está incluida en el proyecto.
 
-![](media/beef53569f9a74589ad9d868cd30463a.png)
+.. image:: media/img/simbolo1.png
+   :align: right
+   :scale: 50 %
 
 -   Agregar al componente toda la información adicional que sea posible y que
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
