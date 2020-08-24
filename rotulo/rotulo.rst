@@ -4,33 +4,10 @@
 
 
 
+| **Recomendaciones y buenas costumbres para el diseño de Hardware** |                                                                       |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Espacio/s                                                          | Laboratorio de Mediciones y Ensayos, Prácticas Profesionalizantes     |
+| Autor/es                                                           | Foltyn, Pablo Andrés  Dominici, Juan Manuel Alberino, Sergio          |
+| Destinatarios                                                      | Alumnos de 5º y 6º año de la Especialidad Electrónica de la ET Nº 28, |
+|                                                                    |                                                                       |
 
-+---------------+------------------------------------------------------------+
-| 			 	| Recomendaciones y buenas costumbres para el diseño de PCB  |
-+===============+============================================================+
-| Espacio/s     | Laboratorio de Mediciones y Ensayos,   					 |
-|  	            | Prácticas Profesionalizantes           					 |
-+---------------+------------------------------------------------------------+
-|			    | Foltyn, Pablo Andrés 										 |
-| Autor/es 	    | Dominici, Juan Manuel									     |
-|			    | Alberino, Sergio 											 |
-+---------------+------------------------------------------------------------+
-| Destinatarios	| Alumnos de 5to 6to año de la Especialidad Electrónica      |
-+---------------+------------------------------------------------------------+
-
-
-+---------------------------+----------------------------------+-------------+
-| Nombre     Cable          | Descripción                      | PIN µC      |
-+==========+================+==================================+=============+
-| CLK        NARANJA o GRIS | Señal de clock                   | P1.20       |
-+---------------------------+----------------------------------+-------------+
-| CSN        VERDE          | SS/Select                        | P1.21 (SS1) |
-+---------------------------+----------------------------------+-------------+
-| VDD        ROJO           | Alimentación                     | 3.3V        |
-+---------------------------+----------------------------------+-------------+
-| PROG\_DI   AMARILLO       | MOSI (Master Output Slave Input) |             |
-+---------------------------+----------------------------------+-------------+
-| GND        NEGRO          | Alimentación                     | GND         |
-+---------------------------+----------------------------------+-------------+
-| DO         AZUL           | MISO (Master Input Slave Output) | P1.23       |
-+---------------------------+----------------------------------+-------------+

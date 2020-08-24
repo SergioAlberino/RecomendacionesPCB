@@ -7,19 +7,18 @@ Componentes
 
 A continuación se detallan los tips para la creación y gestión de los componentes, tanto para los símbolos esquemáticos como para los footprints
 
-# **Símbolos**
 
--   Cada componente debe tener su símbolo y éste debe ser lo más descriptivo
-    posible.
+Símbolos
+=========
+?	Cada componente debe tener su símbolo y éste debe ser lo más descriptivo posible.
+?	Los símbolos deben estar incluidos en una librería propia del proyecto y cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es decir si el proyecto es controlado por varias personas todas poseen la misma librería dado que está incluida en el proyecto.
 
--   Los símbolos deben estar incluidos en una librería propia del proyecto y
-    cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es
-    decir si el proyecto es controlado por varias personas todas poseen la misma
-    librería dado que está incluida en el proyecto.
-	
+
 .. image:: ../media/img/simbolo1.png
    :align: left
    :scale: 100 %
+
+
 
 
 
@@ -29,6 +28,8 @@ A continuación se detallan los tips para la creación y gestión de los componente
     fabricante, número de parte, distribuidor, etc).
 	
 	
+	
+
 	
 	
 	
