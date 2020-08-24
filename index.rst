@@ -45,6 +45,6 @@ Datos del documento
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`rotulo`
 * :ref:`modindex`
 * :ref:`search`
