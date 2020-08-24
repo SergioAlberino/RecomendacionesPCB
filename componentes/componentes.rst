@@ -17,22 +17,30 @@ A continuación se detallan los tips para la creación y gestión de los componente
     decir si el proyecto es controlado por varias personas todas poseen la misma
     librería dado que está incluida en el proyecto.
 	
-
 .. image:: ../media/img/simbolo1.png
    :align: left
    :scale: 100 %
 
 
 
+
 -   Agregar al componente toda la información adicional que sea posible y que
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
     fabricante, número de parte, distribuidor, etc).
+	
+	
+	
+	
+	
 
 
 
 .. image:: ../media/img/simbolo2.png
    :align: left
    :scale: 100 %
+
+
+
 
 
 
@@ -50,9 +58,14 @@ A continuación se detallan los tips para la creación y gestión de los componente
 
 
 
+
+
 .. image:: ../media/img/simbolo3.png
    :align: left
    :scale: 50 %
+
+
+
 
 
 
@@ -66,10 +79,13 @@ A continuación se detallan los tips para la creación y gestión de los componente
 
 
 
+
+
 .. image:: ../media/img/simbolo4.png
    :align: left
    :scale: 100 %
    
+  
    
 .. image:: ../media/img/simbolo5.png
    :align: left
