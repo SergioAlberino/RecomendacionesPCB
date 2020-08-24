@@ -31,21 +31,18 @@ Datos del documento
     rotulo
 
 
-.. csv-table:: Frozen Delights!
-   :header: "Treat", "Quantity", "Description"
-   :widths: 15, 10, 30
+.. csv-table:: Recomendaciones y buenas costumbres para el diseño de PCB
 
-   "Albatross", 2.99, "On a stick!"
-   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
-   crunchy, now would it?"
-   "Gannet Ripple", 1.99, "On a stick!"
+   :widths: 20, 50
+
+   "Espacio/s ",  "Laboratorio de Mediciones y Ensayos / Prácticas Profesionalizantes"
+   "Autor/es",  "Foltyn, Pablo Andrés 	 /  Dominici, Juan Manuel	 / Alberino, Sergio "
+   "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica!"
+
+
 
 
    
-    Troubleshooting
-    Support
-    FAQ
-    Licence
 
 
 
@@ -55,3 +52,8 @@ Indices and tables
 * :ref:`rotulo`
 * :ref:`modindex`
 * :ref:`search`
+
+    Troubleshooting
+    Support
+    FAQ
+    Licence
