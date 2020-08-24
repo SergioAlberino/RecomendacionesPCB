@@ -6,7 +6,7 @@
 +-----------------------------------------------------------------------+
 | **Recomendaciones y buenas costumbres para el diseño de PCB**         |
 +===============+=======================================================+
-| Espacios      | Laboratorio de Mediciones y Ensayos,  				|
+| Espacios      | Laboratorio de Mediciones y Ensayos   				|
 +---------------+-------------------------------------------------------+
 
 
