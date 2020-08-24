@@ -24,7 +24,6 @@ y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Datos del documento
@@ -34,14 +33,10 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 .. toctree::
    :maxdepth: 2
    :caption: Diseño
-   componentes <componentes/componentes.rst>
-      Installation
+		componentes <componentes/componentes.rst>
+		esquematico <esquematico/esquematico.rst>
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Esquematico
-   esquematico <esquematico/esquematico.rst>
-   Installation
+
 .. toctree::
    :maxdepth: 2
    :caption: Publications   
