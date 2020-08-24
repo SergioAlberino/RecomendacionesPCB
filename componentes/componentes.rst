@@ -20,7 +20,7 @@ A continuación se detallan los tips para la creación y gestión de los componente
 
 .. image:: ../media/img/simbolo1.png
    :align: left
-   :scale: 50 %
+   :scale: 100 %
 
 
 
@@ -28,9 +28,14 @@ A continuación se detallan los tips para la creación y gestión de los componente
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
     fabricante, número de parte, distribuidor, etc).
 
+
+
 .. image:: ../media/img/simbolo2.png
    :align: left
-   :scale: 50 %
+   :scale: 100 %
+
+
+
 
 -   Crear un símbolo por cada tipo de componente, valor y encapsulado , es decir
     crear un símbolo para un resistor de 1k 1/8W, otro para un resistor de 1k
@@ -41,9 +46,16 @@ A continuación se detallan los tips para la creación y gestión de los componente
     ser un proceso engorroso y demandante en caso de tener un único símbolo para
     todas las resistencias y todos los valores por ejemplo.
 
+
+
+
+
 .. image:: ../media/img/simbolo3.png
    :align: left
    :scale: 50 %
+
+
+
 
 -   Para los Circuitos integrados no hace falta respetar la disposición de pines
     de la hoja de datos, si no que es más eficiente ubicar los pines de manera
@@ -51,12 +63,19 @@ A continuación se detallan los tips para la creación y gestión de los componente
     posible tratar de mantener las entradas del lado izquierdo y las salidas del
     lado derecho.
 
+
+
+
 .. image:: ../media/img/simbolo4.png
    :align: left
-   :scale: 50 %
+   :scale: 100 %
+   
+   
 .. image:: ../media/img/simbolo5.png
    :align: left
-   :scale: 50 %
+   :scale: 100 %
+
+
 
 
 
