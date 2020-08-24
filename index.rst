@@ -22,7 +22,7 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
    :caption: Objetivos
 
     Objetivos <objetivos/objetivos.rst>
-
+    Installation
 
 .. toctree::
    :maxdepth: 2

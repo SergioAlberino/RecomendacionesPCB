@@ -1,3 +1,5 @@
+Recomendaciones y buenas prácticas para el diseño de Hardware
+
 # **Componentes**
 
 A continuacion se detallan los tips para la creacion y gestion de los
@@ -12,6 +14,7 @@ componentes, tanto para los símbolos esquemáticos como para los footprints
     cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es
     decir si el proyecto es controlado por varias personas todas poseen la misma
     librería dado que está incluida en el proyecto.
+
 
 .. image:: media/img/simbolo1.png
    :align: right
