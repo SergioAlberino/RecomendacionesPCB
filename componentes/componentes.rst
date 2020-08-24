@@ -2,12 +2,12 @@
 Componentes
 ********
 
-# **Componentes**
+**Componentes**
 =========================
 
 A continuación se detallan los tips para la creación y gestión de los componentes, tanto para los símbolos esquemáticos como para los footprints
 
-## **Símbolos**
+# **Símbolos**
 
 -   Cada componente debe tener su símbolo y éste debe ser lo más descriptivo
     posible.
@@ -16,6 +16,7 @@ A continuación se detallan los tips para la creación y gestión de los componente
     cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es
     decir si el proyecto es controlado por varias personas todas poseen la misma
     librería dado que está incluida en el proyecto.
+	
 
 .. image:: ../media/img/simbolo1.png
    :align: left
@@ -27,7 +28,9 @@ A continuación se detallan los tips para la creación y gestión de los componente
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
     fabricante, número de parte, distribuidor, etc).
 
-![](media/a00581f458409f639166c1d5759db615.png)
+.. image:: ../media/img/simbolo2.png
+   :align: left
+   :scale: 50 %
 
 -   Crear un símbolo por cada tipo de componente, valor y encapsulado , es decir
     crear un símbolo para un resistor de 1k 1/8W, otro para un resistor de 1k
@@ -38,7 +41,9 @@ A continuación se detallan los tips para la creación y gestión de los componente
     ser un proceso engorroso y demandante en caso de tener un único símbolo para
     todas las resistencias y todos los valores por ejemplo.
 
-![](media/4e4c7d89d0dbdf3d030c461dd24212c2.png)
+.. image:: ../media/img/simbolo3.png
+   :align: left
+   :scale: 50 %
 
 -   Para los Circuitos integrados no hace falta respetar la disposición de pines
     de la hoja de datos, si no que es más eficiente ubicar los pines de manera
@@ -46,14 +51,19 @@ A continuación se detallan los tips para la creación y gestión de los componente
     posible tratar de mantener las entradas del lado izquierdo y las salidas del
     lado derecho.
 
-    ![](media/e0172f7db79b39322d085395237500ca.png)
+.. image:: ../media/img/simbolo4.png
+   :align: left
+   :scale: 50 %
+.. image:: ../media/img/simbolo5.png
+   :align: left
+   :scale: 50 %
 
-![](media/2ae261e0755a1957a8ef675cc6990478.png)
+
 
 *Disposición de pines de la hoja de datos                  Disposición de Pines
 Ordenado*
 
-## **FootPrints**
+# **FootPrints**
 
 -   Generar un footprint por cada tipo de encapsulado y repetirlo en los
     distintos símbolos esquemáticos. Es decir crear un footprint TO-92 y
