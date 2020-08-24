@@ -24,15 +24,13 @@ y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
-
+Datos del documento
+-------------------
 .. toctree::
    :maxdepth: 3
-   :caption: Datos del documento
-        rotulo <rotulo/rotulo.rst>
-   :caption: Diseño
-		Simbolos <componentes/Simbolos.rst>
-		FootPrints <componentes/FootPrints.rst>
-		esquematico <esquematico/esquematico.rst>
+    rotulo <rotulo/rotulo.rst>
+
+
 
 
 
