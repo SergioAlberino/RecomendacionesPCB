@@ -24,9 +24,6 @@ y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
-.. toctree::
-   :caption: Datos del documento
- 
 
 .. toctree::
    :maxdepth: 3
@@ -38,13 +35,7 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 		esquematico <esquematico/esquematico.rst>
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Publications   
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Additional Info
    
     Troubleshooting
     Support
