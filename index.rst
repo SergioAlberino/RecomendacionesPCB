@@ -8,6 +8,7 @@ Index
    :align: right
    :scale: 70 %
 
+
 Objetivos
 ---------
 En el presente documento se detallan distintos tips, consejos y recomendaciones
@@ -24,6 +25,7 @@ y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
+
 Datos del documento
 -------------------
 .. toctree::
@@ -32,7 +34,6 @@ Datos del documento
 
 
 .. csv-table:: Recomendaciones y buenas costumbres para el diseño de PCB
-
    :widths: 20, 50
 
    "Espacio/s ",  "Laboratorio de Mediciones y Ensayos / Prácticas Profesionalizantes"
@@ -41,17 +42,15 @@ Datos del documento
 
 
 
-
+.. toctree::
+   :maxdepth: 2
+   :caption: Componentes
    
+    Símbolos <componentes/simbolos.rst>
+    FootPrints <hardware/footprints.rst>
 
+  
 
-
-Indices and tables
-==================
-
-* :ref:`rotulo`
-* :ref:`modindex`
-* :ref:`search`
 
     Troubleshooting
     Support
