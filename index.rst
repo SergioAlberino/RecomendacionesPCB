@@ -28,10 +28,6 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 
 Datos del documento
 -------------------
-.. toctree::
-   :maxdepth: 3
-    rotulo
-
 
 .. csv-table:: Recomendaciones y buenas costumbres para el diseño de PCB
    :widths: 20, 50
@@ -39,7 +35,6 @@ Datos del documento
    "Espacio/s ",  "Laboratorio de Mediciones y Ensayos / Prácticas Profesionalizantes"
    "Autor/es",  "Foltyn, Pablo Andrés 	 /  Dominici, Juan Manuel	 / Alberino, Sergio "
    "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica!"
-
 
 
 
