@@ -47,7 +47,7 @@ Datos del documento
    :maxdepth: 2
    :caption: Componentes
 		Símbolos <componentes/simbolos.rst>
-		FootPrints <hardware/footprints.rst>
+		FootPrints <componentes/footprints.rst>
     Installation
 
 
