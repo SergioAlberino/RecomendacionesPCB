@@ -16,6 +16,19 @@ y está basado en los conocimientos y experiencias de los autores, no debe ser
 tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
++-----------------------------+--------------------------------------------------------------------+
+| **Sensores**                |                                                                    |
++=============================+====================================================================+
+| Espacio/s 				  | Laboratorio de Mediciones y Ensayos, Prácticas Profesionalizantes  |
++-----------------------------+--------------------------------------------------------------------+
+|					          | Foltyn, Pablo Andrés 											   |
+| Autor/es 					  | Dominici, Juan Manuel											   |
+|					          | Alberino, Sergio 											       |
++-----------------------------+--------------------------------------------------------------------+
+| Destinatarios	 			  | Alumnos de 5º y 6º año de la Especialidad Electrónica  ET Nº 28    |
++-----------------------------+--------------------------------------------------------------------+
+
+
 
 .. toctree::
    :maxdepth: 2
