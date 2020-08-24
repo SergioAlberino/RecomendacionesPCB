@@ -1,9 +1,8 @@
-Recomendaciones y buenas prácticas para el diseño de Hardware
+Grupo de Inteligencia Artificial y Robótica
 
 # **Componentes**
 
-A continuacion se detallan los tips para la creacion y gestion de los
-componentes, tanto para los símbolos esquemáticos como para los footprints
+A continuación se detallan los tips para la creación y gestión de los componentes, tanto para los símbolos esquemáticos como para los footprints
 
 ## **Símbolos**
 
@@ -15,8 +14,7 @@ componentes, tanto para los símbolos esquemáticos como para los footprints
     decir si el proyecto es controlado por varias personas todas poseen la misma
     librería dado que está incluida en el proyecto.
 
-
-.. image:: media/img/simbolo1.png
+.. image:: ../media/img/simbolo1.png
    :align: right
    :scale: 50 %
 
