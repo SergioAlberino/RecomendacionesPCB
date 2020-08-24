@@ -1,12 +1,12 @@
 .. Recomendaciones PCB
 
 ***************
-Recomendaciones PCB
+Index
 ***************
 
 .. image:: media/img/default.jpg
    :align: right
-   :scale: 50 %
+   :scale: 70 %
 
 Objetivos
 ---------
@@ -25,10 +25,8 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
 .. toctree::
-   :maxdepth: 2
    :caption: Datos del documento
-   Datos <rotulo/rotulo.rst>
-   Installation
+   rotulo <rotulo/rotulo.rst>
 
 .. toctree::
    :maxdepth: 2
