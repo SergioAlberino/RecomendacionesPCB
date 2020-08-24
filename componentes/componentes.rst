@@ -62,7 +62,7 @@ A continuación se detallan los tips para la creación y gestión de los componente
 
 .. image:: ../media/img/simbolo3.png
    :align: left
-   :scale: 50 %
+   :scale: 150 %
 
 
 
@@ -82,7 +82,7 @@ A continuación se detallan los tips para la creación y gestión de los componente
 
 
 .. image:: ../media/img/simbolo4.png
-   :align: left
+   :align: center
    :scale: 100 %
    
   
