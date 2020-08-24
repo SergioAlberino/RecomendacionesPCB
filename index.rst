@@ -17,7 +17,7 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 
 
 +-----------------------------+--------------------------------------------------------------------+
-| **Sensores**                |                                                                    |
+| Recomendaciones y buenas costumbres para el diseño de Hardware                                   |
 +=============================+====================================================================+
 | Espacio/s 				  | Laboratorio de Mediciones y Ensayos, Prácticas Profesionalizantes  |
 +-----------------------------+--------------------------------------------------------------------+
