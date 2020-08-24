@@ -26,12 +26,15 @@ tomado como obligatorio a menos de que sea explícitamente indicado.
 
 .. toctree::
    :caption: Datos del documento
-   rotulo <rotulo/rotulo.rst>
+ 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :caption: Datos del documento
+        rotulo <rotulo/rotulo.rst>
    :caption: Diseño
-		componentes <componentes/componentes.rst>
+		Simbolos <componentes/Simbolos.rst>
+		FootPrints <componentes/FootPrints.rst>
 		esquematico <esquematico/esquematico.rst>
 
 
