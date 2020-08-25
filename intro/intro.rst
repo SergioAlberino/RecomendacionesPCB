@@ -1,54 +1,15 @@
-Grupo de Inteligencia Artificial y Robótica
 
-**Robot miniPi**
 
-Manual de Usuario
+Simbolos
+---------
 
-**Integrantes**
+-	Cada componente debe tener su símbolo y éste debe ser lo más descriptivo posible.
+-	Los símbolos deben estar incluidos en una librería propia del proyecto y cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es decir si el proyecto es controlado por varias personas todas poseen la misma librería dado que está incluida en el proyecto.
 
-    Alejandro Gastón Alvarez
 
-    `*alegasalv@gmail.com* <mailto:alegasalv@gmail.com>`__
-
-    Juan Manuel Gabis Gomez
-
-    `*jgabis14@gmail.com* <mailto:jgabis14@gmail.com>`__
-
-    JoaquinToranzo Calderón
-
-    `*toranzocalderonjs@gmail.com* <mailto:toranzocalderonjs@gmail.com>`__
-
-    Juan Ignacio Basile
-
-    `*juaanii.b@hotmail.com* <mailto:juaanii.b@hotmail.com>`__
-
-    Nicolás Brunella
-
-    `*nicolasbrunella@gmail.com* <mailto:nicolasbrunella@gmail.com>`__
-
-    Micaela Viegas Domina
-
-    `*micaviegasdomina@hotmail.com* <mailto:micaviegasdomina@hotmail.com>`__
-
-**Directores del Proyecto**
-
-    Sergio Alberino
-
-    `*alberino@gmail.com* <mailto:alberino@gmail.com>`__
-
-    Pablo Folino
-
-    `*pfolino@gmail.com* <mailto:pfolino@gmail.com>`__
-
-**Directores del Grupo**
-
-    Claudio Verrastro
-
-    `*cverra@cae.cnea.gov.ar* <mailto:cverra@cae.cnea.gov.ar>`__
-
-    Juan Carlos Gómez
-
-    `*juanca@inti.gob.ar* <mailto:juanca@inti.gob.ar>`__
+.. image:: ../media/img/simbolo1.png
+   :align: left
+   :scale: 100 %
 
 
 

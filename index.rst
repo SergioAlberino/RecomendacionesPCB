@@ -40,6 +40,10 @@ Datos del documento
 
 .. toctree::
    :maxdepth: 2
-   :caption: Componentes
-    simbolos <componentes/simbolos.rst>
+   :caption: Introducción
+
+    Intro <intro/intro.rst>
     Installation
+
+
+
