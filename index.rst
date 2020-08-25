@@ -41,15 +41,8 @@ Datos del documento
 .. toctree::
    :maxdepth: 2
    :caption: Componentes
-		Simbolos <componentes/simbolos.rst>
+		simbolos
 		FootPrints <componentes/footprints.rst>
-
-
-
-
-  
-
-
     Troubleshooting
     Support
     FAQ
