@@ -74,4 +74,4 @@ Versión
    :maxdepth: 2
    :caption: Esquemático
    
-    intro <intro/intro.rst>
+    Tips_Esquematico <esquematico/esquematico.rst>
