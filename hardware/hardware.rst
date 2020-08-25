@@ -135,11 +135,11 @@ Consideraciones Generales
     -   Los agujeros de fijación deben tener una corona de cobre que haga
         contacto con la tuerca, en caso de que se sujete con tornillo y tuerca.
 
-
-.. image:: ../media/img/pcb1.png
-   :align: center
-   :scale: 100 %  
-
+	.. 	image:: ../media/img/pcb1.png
+		:align: center
+		:scale: 100 % 
+	
+ 
     -   Siempre es bueno limitar el área efectiva para ruteo en un tamaño menor
         al área total del PCB, \~1mm o menos. Esto se hace para que no queden
         pistas muy cerca de los bordes del PCB. A continuación se muestra una
@@ -147,9 +147,10 @@ Consideraciones Generales
         PCB y el perímetro rosa indica el área donde está permitido rutear el
         PCB.
 
-.. image:: ../media/img/pcb2.png
-   :align: center
-   :scale: 100 %  
+	.. 	image:: ../media/img/pcb2.png
+		:align: center
+		:scale: 100 % 
+	
 
     -   Comenzar a trazar pistas una vez estén colocados todos los componentes
         en su posición.
