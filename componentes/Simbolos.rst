@@ -1,11 +1,6 @@
-********
-Símbolos
-********
-
 
 Simbolos
 ---------
-
 
 -	Cada componente debe tener su símbolo y éste debe ser lo más descriptivo posible.
 -	Los símbolos deben estar incluidos en una librería propia del proyecto y cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es decir si el proyecto es controlado por varias personas todas poseen la misma librería dado que está incluida en el proyecto.
