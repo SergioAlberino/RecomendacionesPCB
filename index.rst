@@ -42,10 +42,8 @@ Versión
 
 .. csv-table:: Versiones
    :header: "Revisión", "Detalle de cambios", "Fecha"
-   :widths: 15, 10, 30
-
+   :widths: 20, 40, 10
    "Versión 1.0",  "Primera versión" , "18/08/2020"
-
 
 
 
