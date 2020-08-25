@@ -90,7 +90,7 @@ FootPrints
 .. image:: ../media/img/footprint1.png
    :align: center
    :scale: 100 %  
-   
+***************************** 
 
     4.  Capa 3d: Asignar alguna capa mecánica al modelo 3d del Componente y
         respetarla para todos.
