@@ -1,6 +1,6 @@
 
 
-Simbolos
+Tips Esquemático
 ---------
 
 -	Cada componente debe tener su símbolo y éste debe ser lo más descriptivo posible.
@@ -17,7 +17,7 @@ Simbolos
 
 
 
-FootPrints
+Rlalata
 -----------
 
 -   Generar un footprint por cada tipo de encapsulado y repetirlo en los

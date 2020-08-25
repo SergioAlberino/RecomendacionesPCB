@@ -65,4 +65,8 @@ Versión
     componentes <componentes/componentes.rst>
     Installation
 
-
+.. toctree::
+   :maxdepth: 2
+   :caption: Esquemático
+   
+    intro <intro/intro.rst>
