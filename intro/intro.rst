@@ -13,110 +13,39 @@ Simbolos
 
 
 
-Principales características de la plataforma Robot
---------------------------------------------------
-
-+-------------------------------+--------+
-| **Características físicas**   |        |
-+===============================+========+
-| Ancho                         | 9,7 cm |
-+-------------------------------+--------+
-| Largo                         | 9,7 cm |
-+-------------------------------+--------+
-| Alto                          | 10 cm  |
-+-------------------------------+--------+
-| Peso Aproximado (sin batería) | xx g   |
-+-------------------------------+--------+
-| Peso Aproximado (con batería) | xx g   |
-+-------------------------------+--------+
-
-+---------------------+-------------------+
-| **Alimentación**    |                   |
-+=====================+===================+
-| Batería Li-Po       | 11,1V – xx Ah     |
-+---------------------+-------------------+
-| Tiempo de autonomía | xx horas (Aprox.) |
-+---------------------+-------------------+
-| Tiempo de recarga   | xx horas (Aprox.) |
-+---------------------+-------------------+
-
-+--------------------------------+---------------------------+
-| **Desplazamiento**             |                           |
-+================================+===========================+
-| Motores Con reducción mecánica | AP&S 12V. Reducción xx:xx |
-+--------------------------------+---------------------------+
-| Ruedas Diámetro                | 6 cm                      |
-+--------------------------------+---------------------------+
-
-+----------------------------+--------------------------------------+
-| **Procesador**\ LPC1769    |                                      |
-+============================+======================================+
-| Core                       | ARM Cortex-M3 de NXP                 |
-+----------------------------+--------------------------------------+
-| Memoria RAM                | 64kB                                 |
-+----------------------------+--------------------------------------+
-| Memoria Flash ROM          | 512kB (on-chip)                      |
-+----------------------------+--------------------------------------+
-| Clock                      | 120MHz                               |
-+----------------------------+--------------------------------------+
-| In-SystemProgramming (ISP) | Si                                   |
-+----------------------------+--------------------------------------+
-| USB                        | USB 2.0 full-speed Device controller |
-+----------------------------+--------------------------------------+
-| UARTs                      | 4                                    |
-+----------------------------+--------------------------------------+
-| I2C serial interfaces      | 3                                    |
-+----------------------------+--------------------------------------+
-| SPI/SSP serial interfaces  | 3                                    |
-+----------------------------+--------------------------------------+
-| ADC                        | ADC de 12-bit con 8 canales          |
-+----------------------------+--------------------------------------+
-| Timer/Counter/PWM          | 4 x 32-bit Timer                     |
-+----------------------------+--------------------------------------+
-| PWM                        | Standard PWM Timer block             |
-+----------------------------+--------------------------------------+
-| JTAG and Serial Wire Debug | Si                                   |
-+----------------------------+--------------------------------------+
-
-+-----------------------------+------------------------------------+
-| **Sensores**                |                                    |
-+=============================+====================================+
-| Infrarrojos (TCRT5000) x 4. | Rango xx – xx cm                   |
-+-----------------------------+------------------------------------+
-| Ultrasonido (HCSR04) x 4    | Rango xx – xx cm                   |
-+-----------------------------+------------------------------------+
-| Encoders (AS5045) x 2       | Medición de 4096 pulsos por vuelta |
-+-----------------------------+------------------------------------+
-
-+------------------------------+-------+
-| **Comunicación inalámbrica** |       |
-+==============================+=======+
-| Modulo Xbee                  |       |
-+------------------------------+-------+
-| Alcance                      | xx m  |
-+------------------------------+-------+
-| Frecuencia de operación      | xx Hz |
-+------------------------------+-------+
 
 
-Diseño Mecánico
-===============
 
-.. |image1| image:: media/image2.png
-   :width: 3.79583in
-   :height: 1.64583in
 
-Pieza Base – Dimensiones
-------------------------
 
-.. |image3| image:: media/image4.png
-   :width: 4.67756in
-   :height: 3.97672in
 
-Vista explosionada
-------------------
 
-|Explosion miniPI.jpg|
+
+
+FootPrints
+-----------
+
+-   Generar un footprint por cada tipo de encapsulado y repetirlo en los
+    distintos símbolos esquemáticos. Es decir crear un footprint TO-92 y
+    utilizarlo para el BC548, BC337, etc.
+
+-   Cada footprint debe contener idealmente como mínimo las siguientes capas:
+
+    1.  Top y Bottom layer: Capas para la ubicación de Pads y ruteado de pistas.
+
+    2.  Top y Bottom Overlay: Capas para serigrafía. Cada footprint debe tener
+        una serigrafía clara y representativa del componente y su forma,
+        tratando de respetar las dimensiones físicas.
+
+    3.  Top y Bottom Drawing: Estas capas se utilizan para delimitar el tamaño
+        total ocupado por el componente. Se utilizan para visualizar una posible
+        colisión de componentes.
+
+        ![](media/65ab89d77758b5f97698abd3a92574fa.png)
+
+    4.  Capa 3d: Asignar alguna capa mecánica al modelo 3d del Componente y
+        respetarla para todos.
+
 
 
 

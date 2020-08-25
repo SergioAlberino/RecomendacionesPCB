@@ -36,6 +36,17 @@ Datos del documento
    "Autor/es",  "Foltyn, Pablo Andrés 	 /  Dominici, Juan Manuel	 / Alberino, Sergio "
    "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica ET28"
 
+Versión
+--------
+
+.. csv-table:: Recomendaciones y buenas costumbres para el diseño de PCB
+   :widths: 20, 30,20
+   :header-rows: 1
+   "Revisión ",  "Detalle de cambios", "Fecha"
+   "Versión 1.0",  " Primera versión" , "18/08/2020"
+
+
+
 
 
 .. toctree::
