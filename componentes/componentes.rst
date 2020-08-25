@@ -4,14 +4,14 @@ Simbolos
 ---------
 
 -	Cada componente debe tener su símbolo y éste debe ser lo más descriptivo posible.
--	Los símbolos deben estar incluidos en una librería propia del proyecto y cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es decir si el proyecto es controlado por varias personas todas poseen la misma librería dado que está incluida en el proyecto.
-
-
+-	Los símbolos deben estar incluidos en una librería propia del proyecto y cada proyecto debe tener su propia librería. Esto mejora la portabilidad, es decir si el proyecto es controlado por varias personas todas poseen la misma librería dado que está incluida en el proyecto.  
+  
+  
 .. image:: ../media/img/simbolo1.png
    :align: left
    :scale: 100 %  
-   
-   
+ |   
+ |   
 
 
 -   Agregar al componente toda la información adicional que sea posible y que
@@ -19,16 +19,15 @@ Simbolos
     fabricante, número de parte, distribuidor, etc).  
 	
 	
-
+	
 
 .. image:: ../media/img/simbolo2.png
    :align: left
-   :scale: 100 %
+   :scale: 100 %  
+   
   
-    
+
 	
-
-
 
 -   Crear un símbolo por cada tipo de componente, valor y encapsulado , es decir
     crear un símbolo para un resistor de 1k 1/8W, otro para un resistor de 1k
@@ -113,7 +112,7 @@ FootPrints
         total ocupado por el componente. Se utilizan para visualizar una posible
         colisión de componentes.
 
-        ![](media/65ab89d77758b5f97698abd3a92574fa.png)
+
 
     4.  Capa 3d: Asignar alguna capa mecánica al modelo 3d del Componente y
         respetarla para todos.
