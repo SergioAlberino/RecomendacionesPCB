@@ -8,9 +8,7 @@ Recomendaciones y buenas costumbres para el diseño de PCB
    :align: right
    :scale: 70 %
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Objetivos
+
 
 
 Objetivos
@@ -58,9 +56,10 @@ Versión
 
 
 
-
 .. toctree::
    :maxdepth: 2
+   :caption: Objetivos
+		Objetivos
    :caption: Componentes
 
     componentes <componentes/componentes.rst>
