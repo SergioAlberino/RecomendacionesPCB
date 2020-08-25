@@ -40,14 +40,14 @@ Datos del documento
 Versión
 --------
 
-.. csv-table:: Versiones
+.. csv-table:: Versiones22
    :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 20, 40, 10
    
    "Versión 1",  "Primera versión" , "18/08/2020"
 
-.. csv-table:: Frozen Delights!
-   :header: "Treat", "Quantity", "Description"
+.. csv-table:: Versiones
+   :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 15, 10, 30
 
    "Albatross", 2.99, "On a stick!"
