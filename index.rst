@@ -4,7 +4,7 @@
 Index
 ***************
 
-.. image:: media/img/default.jpg
+.. image:: media/img/default.png
    :align: right
    :scale: 70 %
 
@@ -41,9 +41,8 @@ Datos del documento
 .. toctree::
    :maxdepth: 2
    :caption: Componentes
-		Símbolos <componentes/simbolos.rst>
+		Simbolos <componentes/simbolos.rst>
 		FootPrints <componentes/footprints.rst>
-    Installation
 
 
 
