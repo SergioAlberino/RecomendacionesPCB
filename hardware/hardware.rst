@@ -84,7 +84,7 @@ Tips de Diseño de HW
 >   Otra posibilidad, si el circuito lo permite, es colocar un puente de diodos
 >   en la entrada de alimentación de continua; de esta forma no hace falta
 >   preocuparse por la polaridad de conexión.
-.. image:: ../media/img/hardware5.png
+.. image:: ../media/img/hardware6.png
    :align: right
    :scale: 100 %  
 
@@ -134,7 +134,10 @@ Consideraciones Generales
     -   Los agujeros de fijación deben tener una corona de cobre que haga
         contacto con la tuerca, en caso de que se sujete con tornillo y tuerca.
 
-        ![](media/0d3b67c2bd6e315a8abd702b51d33320.png)
+
+.. image:: ../media/img/pcb1.png
+   :align: center
+   :scale: 100 %  
 
     -   Siempre es bueno limitar el área efectiva para ruteo en un tamaño menor
         al área total del PCB, \~1mm o menos. Esto se hace para que no queden
@@ -142,6 +145,10 @@ Consideraciones Generales
         imagen de referencia donde el contorno verde indica las dimensiones del
         PCB y el perímetro rosa indica el área donde está permitido rutear el
         PCB.
+
+.. image:: ../media/img/pcb2.png
+   :align: center
+   :scale: 100 %  
 
     -   Comenzar a trazar pistas una vez estén colocados todos los componentes
         en su posición.
@@ -154,13 +161,20 @@ Consideraciones Generales
         Es decir, en un diseño de PCB de dos capas (Top y Bottom), seleccionar
         una simetría por ejemplo:
 
-        ![](media/b4d985b465c28f0018a255698d488eb5.png)
+.. image:: ../media/img/pcb3.png
+   :align: center
+   :scale: 100 %  
 
         -   Top ruteo horizontal.
+		.. image:: ../media/img/pcb3.png
+			:align: center
+			:scale: 100 %  
 
-            ![](media/23ec4b5c0928ea6522c38036c394d588.png)
 
--   Bottom Ruteo Vertical.
+		-   Bottom Ruteo Vertical.
+			.. image:: ../media/img/pcb4.png
+			:align: center
+			:scale: 100 %  
 
 >   Lo mismo se mantiene para N cantidad de capas.
 
