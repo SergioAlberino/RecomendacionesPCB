@@ -38,15 +38,13 @@ Simbolos
    :align: center
    :scale: 150 %  
 
- *** 
+
 
 -   Para los Circuitos integrados no hace falta respetar la disposición de pines
     de la hoja de datos, si no que es más eficiente ubicar los pines de manera
     que genere un esquemático más organizado y sencillo a la vista. En lo
     posible tratar de mantener las entradas del lado izquierdo y las salidas del
     lado derecho.
-
-
 
 
 
@@ -60,15 +58,14 @@ Simbolos
    :align: right
    :scale: 100 %  
    
-
-*** 
+********************************
 
 *Disposición de pines de la hoja de datos                  Disposición de Pines
 Ordenado*  
 
 
 ********************************
-***
+
 
 FootPrints
 -----------
