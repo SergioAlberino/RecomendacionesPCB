@@ -10,22 +10,19 @@ Simbolos
 .. image:: ../media/img/simbolo1.png
    :align: right
    :scale: 100 %  
- |   
- |   
-
+  
+  
+***
 
 -   Agregar al componente toda la información adicional que sea posible y que
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
     fabricante, número de parte, distribuidor, etc).  
-	
-	
-	
 
 .. image:: ../media/img/simbolo2.png
    :align: right
    :scale: 100 %  
    
-  
+ *** 
 
 	
 
