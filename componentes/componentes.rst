@@ -8,10 +8,10 @@ Simbolos
   
   
 .. image:: ../media/img/simbolo1.png
-   :align: right
+   :align: center
    :scale: 90 %   
 
-***
+
 
 -   Agregar al componente toda la información adicional que sea posible y que
     sea de utilidad a la hora de fabricar la placa (Valor, footprint,
@@ -21,7 +21,7 @@ Simbolos
    :align: center
    :scale: 100 %  
    
-*** 
+
 
 	
 
@@ -58,7 +58,7 @@ Simbolos
    
 .. image:: ../media/img/simbolo5.png
    :align: right
-   :scale: 100 %
+   :scale: 90 %
 
 
 
@@ -73,8 +73,8 @@ Ordenado*
 
 
 
-***
-***
+
+********************************
 
 FootPrints
 -----------
