@@ -179,9 +179,8 @@ Consideraciones Generales
 
 	.. image:: ../media/img/pcb3.png
 	   :align: center
-	   :scale: 100 %  	 	
-
-
+	   :scale: 100 %  	
+		
 		-   Bottom Ruteo Vertical.
 
 	.. image:: ../media/img/pcb4.png
@@ -195,7 +194,13 @@ Consideraciones Generales
 
 Cristal para un microcontrolador
 -----------------------
-
+	.. image:: ../media/img/xtal1.png
+	   :align: left
+	   :scale: 100 %
+	   
+	   	.. image:: ../media/img/xtal2.png
+	   :align: right
+	   :scale: 100 %
 
 
 -   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
@@ -211,8 +216,9 @@ Cristal para un microcontrolador
         temperatura (COG).
 
 
-
-
+	.. image:: ../media/img/xtal3.png
+	   :align: center
+	   :scale: 100 %
 
 
     -   Algunos microcontroladores poseen internamente dichos capacitores y sólo
