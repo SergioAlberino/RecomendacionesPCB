@@ -135,10 +135,13 @@ Consideraciones Generales
     -   Los agujeros de fijación deben tener una corona de cobre que haga
         contacto con la tuerca, en caso de que se sujete con tornillo y tuerca.
 
-	.. 	image:: ../media/img/pcb1.png
-		:align: center
-		:scale: 100 % 
+
 	
+.. image:: ../media/img/pcb1.png
+   :align: center
+   :scale: 100 %  	
+
+
  
     -   Siempre es bueno limitar el área efectiva para ruteo en un tamaño menor
         al área total del PCB, \~1mm o menos. Esto se hace para que no queden
@@ -147,9 +150,9 @@ Consideraciones Generales
         PCB y el perímetro rosa indica el área donde está permitido rutear el
         PCB.
 
-	.. 	image:: ../media/img/pcb2.png
-		:align: center
-		:scale: 100 % 
+.. image:: ../media/img/pcb2.png
+   :align: center
+   :scale: 100 %  	
 	
 
     -   Comenzar a trazar pistas una vez estén colocados todos los componentes
@@ -165,18 +168,21 @@ Consideraciones Generales
 
 .. image:: ../media/img/pcb3.png
    :align: center
-   :scale: 100 %  
+   :scale: 100 %  	
 
         -   Top ruteo horizontal.
-		.. image:: ../media/img/pcb3.png
-			:align: center
-			:scale: 100 %  
+
+
+.. image:: ../media/img/pcb4.png
+   :align: center
+   :scale: 100 %  	
 
 
 		-   Bottom Ruteo Vertical.
-			.. image:: ../media/img/pcb4.png
-			:align: center
-			:scale: 100 %  
+
+.. image:: ../media/img/pcb5.png
+   :align: center
+   :scale: 100 %  	
 
 >   Lo mismo se mantiene para N cantidad de capas.
 
@@ -184,12 +190,10 @@ Consideraciones Generales
 
 
 
-
 Cristal para un microcontrolador
 -----------------------
-![](media/05ad8f47a32042f5fc396c92aabc69dc.png)
 
-![](media/48a9423b68c0912ec5b4d4aa8b5a72a8.png)
+
 
 -   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
     estabilizar la frecuencia de oscilación, también forman parte de una red de
@@ -237,7 +241,9 @@ Fuentes Switching
         de los circuitos integrados que sean susceptibles al ruido, por ejemplo
         el microcontrolador.
 
-        ![](media/02a5c3bf047210d433a6d079ea2f54e4.png)
+
+
+
 
     -   Priorizar la reducción de espacio frente a la alineación de componentes
         en las fuentes switching. Es decir los componentes pueden no estar
