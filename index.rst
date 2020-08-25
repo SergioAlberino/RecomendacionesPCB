@@ -40,11 +40,11 @@ Datos del documento
 Versión
 --------
 
-.. csv-table:: Recomendaciones y buenas costumbres para el diseño de PCB
-   :widths: 20, 30,20
+.. csv-table:: Versión
+   :widths: 20, 30, 20
    :header-rows: 1
-   "Revisión ",  "Detalle de cambios", "Fecha"
-   "Versión 1.0",  " Primera versión" , "18/08/2020"
+   "Revisión" ,  "Detalle de cambios", "Fecha"
+   "Versión 1.0",  "Primera versión" , "18/08/2020"
 
 
 
@@ -52,7 +52,7 @@ Versión
 
 .. toctree::
    :maxdepth: 2
-   :caption: Componnetes
+   :caption: Componentes
 
     Intro <intro/intro.rst>
     Installation
