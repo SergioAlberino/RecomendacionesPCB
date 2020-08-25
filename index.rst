@@ -1,7 +1,7 @@
 .. Recomendaciones PCB
 
 ***************
-Index
+Recomendaciones y buenas costumbres para el diseño de PCB
 ***************
 
 .. image:: media/img/default.PNG
@@ -34,12 +34,12 @@ Datos del documento
 
    "Espacio/s ",  "Laboratorio de Mediciones y Ensayos / Prácticas Profesionalizantes"
    "Autor/es",  "Foltyn, Pablo Andrés 	 /  Dominici, Juan Manuel	 / Alberino, Sergio "
-   "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica!"
+   "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica ET28"
 
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Componentes
-    Intro <componentes/simbolos.rst>
+    simbolos <componentes/simbolos.rst>
     Installation
