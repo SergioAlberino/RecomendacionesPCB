@@ -128,7 +128,9 @@ PCB: Consideraciones prácticas
 
 En esta apartado se detallarán distintas consideraciones a tener en cuenta a la
 hora de diseñar el PCB. Por tal motivo se recomienda la lectura del documento
-**Criterios de Diseño de PCB** visto en taller de electrónica
+`Criterios de Diseño de PCB`_ visto en taller de electrónica
+
+.. _Criterios de Diseño de PCB: https://github.com/SergioAlberino/RecomendacionesPCB/blob/master/pdf/Criterios%20de%20Dise%C3%B1o%20PCB%20teoria.pdf
 
 
 Consideraciones Generales
