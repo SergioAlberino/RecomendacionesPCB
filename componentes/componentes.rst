@@ -57,11 +57,10 @@ Simbolos
 .. image:: ../media/img/simbolo5.png
    :align: right
    :scale: 114 %  
+***
    
-********************************
 
-*Disposición de pines de la hoja de datos                  Disposición de Pines
-Ordenado*  
+*Disposición de pines de la hoja de datos            Disposición de Pines Ordenado*  
 
 
 ********************************
