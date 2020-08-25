@@ -83,9 +83,10 @@ Tips de Diseño de HW
 
 >   Otra posibilidad, si el circuito lo permite, es colocar un puente de diodos
 >   en la entrada de alimentación de continua; de esta forma no hace falta
->   preocuparse por la polaridad de conexión.
+>   preocuparse por la polaridad de conexión.  
+
 .. image:: ../media/img/hardware6.png
-   :align: right
+   :align: center
    :scale: 100 %  
 
 -   Colocar capacitores de alto valor (\~1000uF) a la salida de los reguladores
