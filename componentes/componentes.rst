@@ -9,9 +9,8 @@ Simbolos
   
 .. image:: ../media/img/simbolo1.png
    :align: right
-   :scale: 90 %    |br|
+   :scale: 90 %   
 
-  
 ***
 
 -   Agregar al componente toda la información adicional que sea posible y que
@@ -19,10 +18,10 @@ Simbolos
     fabricante, número de parte, distribuidor, etc).  
 
 .. image:: ../media/img/simbolo2.png
-   :align: right
-   :scale: 100 %  |br|
+   :align: center
+   :scale: 100 %  
    
- *** 
+*** 
 
 	
 
@@ -36,8 +35,8 @@ Simbolos
     todas las resistencias y todos los valores por ejemplo.
 
 .. image:: ../media/img/simbolo3.png
-   :align: right
-   :scale: 150 %   |br|
+   :align: center
+   :scale: 150 %  
 
  *** 
 
@@ -48,21 +47,18 @@ Simbolos
     lado derecho.
 
 
-
-
+ *** 
 
 
 .. image:: ../media/img/simbolo4.png
-   :align: center
+   :align: left
    :scale: 100 %
    
   
    
 .. image:: ../media/img/simbolo5.png
-   :align: left
+   :align: right
    :scale: 100 %
-
-
 
 
 
@@ -77,8 +73,8 @@ Ordenado*
 
 
 
-
-
+***
+***
 
 FootPrints
 -----------
