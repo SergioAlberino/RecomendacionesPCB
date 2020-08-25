@@ -1,6 +1,6 @@
 .. Recomendaciones PCB
 
-.. image:: ../media/img/escudoet28.jpg
+.. image:: media/img/escudoet28.jpg
    :align: right
    :scale: 30 %
    
