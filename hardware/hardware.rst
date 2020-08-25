@@ -1,7 +1,13 @@
 
-
+.. image:: media/img/escudoet28
+   :align: right
+   :scale: 30 %
+   
+   
 Tips de Diseño de HW
 =====================
+
+
 
 -   En lo posible “uniformizar” los valores de los componentes cuando esto sea
     posible. Es decir, tratar de usar poca variedad de valores en el caso de los
@@ -167,9 +173,7 @@ Consideraciones Generales
         una simetría por ejemplo:
 
 
-
         -   Top ruteo horizontal.
-
 
 	.. image:: ../media/img/pcb3.png
 	   :align: center
@@ -180,7 +184,7 @@ Consideraciones Generales
 
 	.. image:: ../media/img/pcb4.png
 	   :align: center
-	   :scale: 100 %  	
+	   :scale: 100 %  	 	
 
 >   Lo mismo se mantiene para N cantidad de capas.
 
