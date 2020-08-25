@@ -8,11 +8,11 @@ Simbolos
 
 .. image:: ../media/img/simbolo1.png
    :align: left
-   :scale: 100 %
-
-
-
-
+   :scale: 100 %  
+  
+  
+  
+  
 
 
 -   Agregar al componente toda la información adicional que sea posible y que
@@ -91,6 +91,7 @@ Simbolos
 *Disposición de pines de la hoja de datos                  Disposición de Pines
 Ordenado*
 
+<br />
 
 FootPrints
 -----------

@@ -9,22 +9,14 @@ Simbolos
 
 .. image:: ../media/img/simbolo1.png
    :align: left
-   :scale: 100 %
+   :scale: 100 %  
+  
+  
+  
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-<br />
 FootPrints
 -----------
 
