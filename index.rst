@@ -50,7 +50,7 @@ Versión
    :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 15, 10, 30
 
-   "Versión 1.0", "Primera versión", "18/08/2020"
+   "Versión 1", "Primera versión", "18/08/2020!"
 
 
 
