@@ -4,7 +4,7 @@
 Index
 ***************
 
-.. image:: media/img/default.png
+.. image:: media/img/default.PNG
    :align: right
    :scale: 70 %
 
@@ -40,7 +40,6 @@ Datos del documento
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introducción
-
-    Intro <intro/intro.rst>
+   :caption: Componentes
+    Intro <componentes/simbolos.rst>
     Installation
