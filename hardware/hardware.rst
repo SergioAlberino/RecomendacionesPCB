@@ -1,12 +1,9 @@
-********
-Diseño de HW
-********
 
 
 Tips de Diseño de HW
 =====================
 
-ETips de Diseño de HW-   En lo posible “uniformizar” los valores de los componentes cuando esto sea
+-   En lo posible “uniformizar” los valores de los componentes cuando esto sea
     posible. Es decir, tratar de usar poca variedad de valores en el caso de los
     resistores y capacitores. Esto se hace para reducir costos en una
     producción, facilitar el montaje y reducir los errores del mismo.
