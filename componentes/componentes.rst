@@ -9,8 +9,8 @@ Simbolos
   
 .. image:: ../media/img/simbolo1.png
    :align: right
-   :scale: 100 %  
-  
+   :scale: 90 %    |br|
+
   
 ***
 
@@ -20,7 +20,7 @@ Simbolos
 
 .. image:: ../media/img/simbolo2.png
    :align: right
-   :scale: 100 %  
+   :scale: 100 %  |br|
    
  *** 
 
@@ -35,21 +35,11 @@ Simbolos
     ser un proceso engorroso y demandante en caso de tener un único símbolo para
     todas las resistencias y todos los valores por ejemplo.
 
-
-
-
-
-
-
 .. image:: ../media/img/simbolo3.png
    :align: right
-   :scale: 150 %
+   :scale: 150 %   |br|
 
-
-
-
-
-
+ *** 
 
 -   Para los Circuitos integrados no hace falta respetar la disposición de pines
     de la hoja de datos, si no que es más eficiente ubicar los pines de manera
