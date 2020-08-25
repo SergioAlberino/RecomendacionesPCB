@@ -19,7 +19,9 @@ Tips de Diseño de HW
     sobre el correcto uso y conexionado, que es importante respetar para no
     tener inconvenientes.
 
-    ![](media/74029531a141443c57e6fcc81f48cb99.png)
+.. image:: ../media/img/hardware1.png
+   :align: center
+   :scale: 100 %  
 
 -   Utilizar los conectores globales del circuito (GND, Vcc, Vdd, etc.) para
     evitar líneas muy largas o que se crucen con otras. Además, esto permite un
@@ -37,7 +39,9 @@ Tips de Diseño de HW
     sensores con bobinas de choque, para aislarlos del posible ruido de alta
     frecuencia.
 
-    ![](media/940b098fea92bb88bb1c97687831eb34.png)
+.. image:: ../media/img/hardware2.png
+   :align: center
+   :scale: 100 %  
 
 -   Siempre poner dos capacitores en paralelo con la alimentación de cada
     integrado, uno de bajo valor \~100nF y otro de mayor valor \~10uF (cerámicos
@@ -47,32 +51,42 @@ Tips de Diseño de HW
     En caso de tratarse de un microcontrolador, puede llegar a tener varios
     pines de alimentación que energizan distintos módulos:
 	
+.. image:: ../media/img/hardware3.png
+   :align: center
+   :scale: 100 %  	
 	
 	
-	
-	>   Se debe colocar capacitores de desacople para cada pin de alimentación.
+>   Se debe colocar capacitores de desacople para cada pin de alimentación.
 >   También se recomienda el uso de capacitores de tantalio en los casos donde
 >   sea crítico filtrar el ruido de alimentación. Usualmente 4.7uF de tantalio
 >   (tendiendo en cuenta el voltage de trabajo).
 
-![](media/60c752397342b22ede7c3ef91f0904f2.png)
+
 
 -   Siempre que se posean conectores externos, proteger cada línea del conector
     con TVS (Diodos supresores de voltaje) para prevenir picos de tensión
     indeseados.
+	
+.. image:: ../media/img/hardware4.png
+   :align: center
+   :scale: 100 %  
 
 -   En caso de utilizar alimentación externa mediante un conector, colocar un
     diodo schottky en serie con la alimentación para evitar la inversión de
     polaridad (Ya que si se conecta al revés la alimentación pueden dañarse los
     componentes de la placa ).
 
-    ![](media/eb6376599c8982b93203b9ee093ea8b1.png)
+.. image:: ../media/img/hardware5.png
+   :align: center
+   :scale: 100 %  
 
-![](media/64de82c68539fc2bfea4a5f8d6bfb603.png)
 
 >   Otra posibilidad, si el circuito lo permite, es colocar un puente de diodos
 >   en la entrada de alimentación de continua; de esta forma no hace falta
 >   preocuparse por la polaridad de conexión.
+.. image:: ../media/img/hardware5.png
+   :align: right
+   :scale: 100 %  
 
 -   Colocar capacitores de alto valor (\~1000uF) a la salida de los reguladores
     o fuentes de alimentación nunca está de más. OJO: No colocar un valor
