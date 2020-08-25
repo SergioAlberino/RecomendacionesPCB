@@ -81,3 +81,4 @@ Versión
    :caption: Diseño de HW
    
     Tips Diseño de HW <hardware/hardware.rst>
+    Installation
