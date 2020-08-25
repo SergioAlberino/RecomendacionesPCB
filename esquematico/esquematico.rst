@@ -62,19 +62,19 @@ oculta.
 -   En la medida de lo posible identificar las distintas tensiones de la
     siguiente manera:
 
-    **+/-XVY** 		**Donde**:
+    ** +/- XVY **  
+	
+	Donde:
 
--   X es el valor entero de la tensión
+	-   X es el valor entero de la tensión
 
--   Y es el valor decimal de la tensión
+	-   Y es el valor decimal de la tensión
 
--   \+/- Indica la polaridad de la fuente
+	-   \+/- Indica la polaridad de la fuente
 
 Ejemplo: +3V3, +5V , -3V3.
 
->   Esto se hace así dado que algunos CAD permiten filtrar elementos por nombre
->   y aplicar distintas reglas a los nombres elegidos. El signo delante del
->   valor de tensión optimiza la búsqueda de nombres
+   Esto se hace así dado que algunos CAD permiten filtrar elementos por nombre y aplicar distintas reglas a los nombres elegidos. El signo delante del valor de tensión optimiza la búsqueda de nombres
 
   
 .. image:: ../media/img/esquematico2.png
@@ -87,7 +87,7 @@ Ejemplo: +3V3, +5V , -3V3.
 
   
 .. image:: ../media/img/esquematico3.png
-   :align: rigth
+   :align: right
    :scale: 100 %  
 
   
