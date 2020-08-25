@@ -50,9 +50,7 @@ Versión
    :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 15, 10, 30
 
-   "Albatross", 2.99, "On a stick!"
-   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
-   crunchy, now would it?"
+   "Versión 1", "Primera versión", "18/08/2020!"
    "Gannet Ripple", 1.99, "On a stick!"
 
 
