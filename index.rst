@@ -40,10 +40,10 @@ Datos del documento
 Versión
 --------
 
-.. csv-table:: Versión
-   :widths: 20, 30, 20
-   :header-rows: 1
-   "Revisión" ,  "Detalle de cambios", "Fecha"
+.. csv-table:: Versiones
+   :header: "Revisión", "Detalle de cambios", "Fecha"
+   :widths: 15, 10, 30
+
    "Versión 1.0",  "Primera versión" , "18/08/2020"
 
 
@@ -54,7 +54,7 @@ Versión
    :maxdepth: 2
    :caption: Componentes
 
-    Intro <intro/intro.rst>
+    componentes <componentes/componentes.rst>
     Installation
 
 
