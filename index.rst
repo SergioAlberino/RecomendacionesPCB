@@ -1,12 +1,12 @@
 .. Recomendaciones PCB
 
+.. image:: ../media/img/escudoet28.jpg
+   :align: right
+   :scale: 30 %
+   
 ***************
 Recomendaciones y buenas costumbres para el diseño de PCB
 ***************
-
-.. image:: media/img/default.PNG
-   :align: right
-   :scale: 70 %
 
 
 
@@ -21,6 +21,11 @@ Los temas aquí presentados no hacen referencia a ningún CAD de diseño de PCB
 específico si no que se aborda el tema desde un punto de vista genérico y en
 caso de utilizar alguna funcionalidad puntual de un CAD específico se hará la
 mención correspondiente.
+
+.. image:: media/img/default.PNG
+   :align: right
+   :scale: 70 %
+
 
 Cabe destacar que este documento fue creado bajo la premisa de “consejos y tips”
 y está basado en los conocimientos y experiencias de los autores, no debe ser

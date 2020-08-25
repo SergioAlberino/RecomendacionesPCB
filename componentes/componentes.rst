@@ -1,4 +1,8 @@
 
+.. image:: ../media/img/escudoet28.jpg
+   :align: right
+   :scale: 30 %
+   
 
 Simbolos
 ---------
