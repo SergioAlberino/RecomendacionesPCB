@@ -8,7 +8,7 @@ Simbolos
   
   
 .. image:: ../media/img/simbolo1.png
-   :align: left
+   :align: right
    :scale: 100 %  
  |   
  |   
@@ -22,7 +22,7 @@ Simbolos
 	
 
 .. image:: ../media/img/simbolo2.png
-   :align: left
+   :align: right
    :scale: 100 %  
    
   
@@ -45,7 +45,7 @@ Simbolos
 
 
 .. image:: ../media/img/simbolo3.png
-   :align: left
+   :align: right
    :scale: 150 %
 
 
