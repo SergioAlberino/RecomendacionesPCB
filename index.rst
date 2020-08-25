@@ -36,6 +36,7 @@ Datos del documento
    "Autor/es",  "Foltyn, Pablo Andrés 	 /  Dominici, Juan Manuel	 / Alberino, Sergio "
    "Destinatarios", " Alumnos de 5to 6to año de la Especialidad Electrónica ET28"
 
+
 Versión
 --------
 
@@ -51,7 +52,7 @@ Versión
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introducción
+   :caption: Componnetes
 
     Intro <intro/intro.rst>
     Installation
