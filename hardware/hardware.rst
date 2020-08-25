@@ -183,7 +183,6 @@ Consideraciones Generales
 
 
 
-
 Cristal para un microcontrolador
 -----------------------
 ![](media/05ad8f47a32042f5fc396c92aabc69dc.png)
