@@ -1,5 +1,5 @@
 
-.. image:: media/img/escudoet28
+.. image:: media/img/escudoet28.jpg
    :align: right
    :scale: 30 %
    
@@ -186,9 +186,8 @@ Consideraciones Generales
 	   :align: center
 	   :scale: 100 %  	 	
 
+
 >   Lo mismo se mantiene para N cantidad de capas.
-
-
 
 
 
