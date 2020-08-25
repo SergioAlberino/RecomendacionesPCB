@@ -207,7 +207,10 @@ Cristal para un microcontrolador
     -   Los capacitores deben ser de baja pérdida y estables a la variación de
         temperatura (COG).
 
-        ![](media/239d7ab9fc13a3a5837136fa4f3165b4.png)
+
+
+
+
 
     -   Algunos microcontroladores poseen internamente dichos capacitores y sólo
         hace falta colocar el cristal (verificar en las hojas de datos del
