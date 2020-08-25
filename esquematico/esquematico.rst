@@ -43,5 +43,56 @@ oculta.
     esquemático principal. Esto ayuda a entender cuales son las entradas y
     salidas del PCB de manera más rápida y sencilla.
 
+  
+.. image:: ../media/img/esquematico1.png
+   :align: center
+   :scale: 100 %   
+
+
+-   Tratar de mantener los esquemas sencillos y ordenados, y no generar
+    “esquemáticos laberintos”.
+
+-   Identificar los “cables” con NETS o nombres de manera que esos nombres se
+    trasladen al PCB.
+
+-   Si hay algún componente que, de manera obligatoria, debe ir cerca de otro
+    componente indicarlo en el esquemático de alguna manera. Colocándolos juntos
+    por ejemplo.
+
+-   En la medida de lo posible identificar las distintas tensiones de la
+    siguiente manera:
+
+    **+/-XVY** 		**Donde**:
+
+-   X es el valor entero de la tensión
+
+-   Y es el valor decimal de la tensión
+
+-   \+/- Indica la polaridad de la fuente
+
+Ejemplo: +3V3, +5V , -3V3.
+
+>   Esto se hace así dado que algunos CAD permiten filtrar elementos por nombre
+>   y aplicar distintas reglas a los nombres elegidos. El signo delante del
+>   valor de tensión optimiza la búsqueda de nombres
+
+  
+.. image:: ../media/img/esquematico2.png
+   :align: center
+   :scale: 100 %  
+
+-   En caso de tener más de tres conexiones en un mismo nodo, evitar la conexión
+    en cruz dado que alguno de los cables podría no estar realmente unido y no
+    nos daríamos cuenta. Separa las conexiones.
+
+  
+.. image:: ../media/img/esquematico3.png
+   :align: rigth
+   :scale: 100 %  
+
+  
+.. image:: ../media/img/esquematico4.png
+   :align: left
+   :scale: 100 %  
 
   
