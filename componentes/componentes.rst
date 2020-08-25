@@ -56,7 +56,7 @@ Simbolos
    
 .. image:: ../media/img/simbolo5.png
    :align: right
-   :scale: 109 %  
+   :scale: 114 %  
    
 ********************************
 
