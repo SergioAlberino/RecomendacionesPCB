@@ -43,7 +43,7 @@ Versión
 .. csv-table:: Versiones
    :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 20, 40, 10
-   "Versión 1",  "Primera versión" , "18/08/2020"
+
 
 
 
