@@ -74,4 +74,10 @@ Versión
    :maxdepth: 2
    :caption: Esquemático
    
-    Tips_Esquematico <esquematico/esquematico.rst>
+    Tips Esquematico <esquematico/esquematico.rst>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Diseño de HW
+   
+    Tips Diseño de HW <hardware/hardware.rst>
