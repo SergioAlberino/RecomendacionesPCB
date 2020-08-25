@@ -40,10 +40,7 @@ Datos del documento
 
 .. toctree::
    :maxdepth: 2
-   :caption: Componentes
-		simbolos
-		FootPrints <componentes/footprints.rst>
-    Troubleshooting
-    Support
-    FAQ
-    Licence
+   :caption: Introducción
+
+    Intro <intro/intro.rst>
+    Installation
