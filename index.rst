@@ -56,10 +56,15 @@ Versión
 
 
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Objetivos
-		Objetivos
+   
+	Objetivos
+
+.. toctree::
+   :maxdepth: 2   
    :caption: Componentes
 
     componentes <componentes/componentes.rst>
