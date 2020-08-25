@@ -50,8 +50,8 @@ Versión
    :header: "Revisión", "Detalle de cambios", "Fecha"
    :widths: 15, 10, 30
 
-   "Versión 1", "Primera versión", "18/08/2020!"
-   "Gannet Ripple", 1.99, "On a stick!"
+   "Versión 1.0", "Primera versión", "18/08/2020"
+
 
 
 
