@@ -8,6 +8,10 @@ Recomendaciones y buenas costumbres para el diseño de PCB
    :align: right
    :scale: 70 %
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Objetivos
+
 
 Objetivos
 ---------

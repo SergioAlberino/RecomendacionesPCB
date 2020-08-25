@@ -47,7 +47,7 @@ Simbolos
     lado derecho.
 
 
- *** 
+
 
 
 .. image:: ../media/img/simbolo4.png
@@ -60,21 +60,14 @@ Simbolos
    :align: right
    :scale: 90 %
 
-
+*** 
 
 *Disposición de pines de la hoja de datos                  Disposición de Pines
-Ordenado*
-
-
-
-
-
-
-
-
+Ordenado*  
 
 
 ********************************
+***
 
 FootPrints
 -----------
