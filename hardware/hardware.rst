@@ -194,11 +194,12 @@ Consideraciones Generales
 
 Cristal para un microcontrolador
 -----------------------
+
 	.. image:: ../media/img/xtal1.png
 	   :align: left
 	   :scale: 100 %
 	   
-	   	.. image:: ../media/img/xtal2.png
+	.. image:: ../media/img/xtal2.png
 	   :align: right
 	   :scale: 100 %
 
@@ -244,10 +245,10 @@ ocasionar daños a la placa o a aquello que conecta.
 
 Fuentes Switching
 -----------------
--   Las fuentes switching deben ocupar el menor lugar físico posible debido a la
-    naturaleza ruidosa de las mismas, es decir, los componentes se colocan lo
-    más cerca posible para evitar la propagación de ruido por el PCB. En
-    especial el nodo de realimentación.
+Las fuentes switching deben ocupar el menor lugar físico posible debido a la
+naturaleza ruidosa de las mismas, es decir, los componentes se colocan lo
+más cerca posible para evitar la propagación de ruido por el PCB. En
+especial el nodo de realimentación.
 
     -   Colocar la fuente switching en alguno de los extremos del PCB, alejado
         de los circuitos integrados que sean susceptibles al ruido, por ejemplo
