@@ -205,7 +205,7 @@ Disposición de componentes y conectores
     -   En lo posible mantener una distribución de componentes homogénea en toda
         la placa.
 		
-	.. image:: ../media/img/disp2.png
+.. image:: ../media/img/disp2.png
    :align: center
    :scale: 100 %  
    
