@@ -202,19 +202,21 @@ Disposición de componentes y conectores
 
 -   En lo posible mantener una distribución de componentes homogénea en toda la
     placa.
-.. image:: ../media/img/disp1.png
+.. image:: ../media/img/disp2.png
    :align: right
    :scale: 100 %  
    
 -   Las protecciones deben ir lo más cerca posible de los conectores asociados
     para evitar la propagación de ruido o tensiones perjudiciales por la placa
-    (TVS, diodo de inversión de polaridad, optoacopladores, polyswitch,etc).
+    (TVS, diodo de inversión de polaridad, optoacopladores, polyswitch,etc).  
+	
 
 -   Si hay conectores que involucran alimentación (típicamente un conector para
     un sensor que tiene líneas de alimentación y líneas de datos) es importante
     que los mismos sean del tipo “polarizado”, es decir, que solo puedan
     (físicamente) conectarse en la forma correcta, ya que de conectarse de otra
-    forma podría ocasionar daños a la placa o a aquello que conecta.
+    forma podría ocasionar daños a la placa o a aquello que conecta.  
+	
 
 
 Cristal para un microcontrolador
