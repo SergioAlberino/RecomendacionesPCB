@@ -174,14 +174,12 @@ Consideraciones Generales
         Es decir, en un diseño de PCB de dos capas (Top y Bottom), seleccionar
         una simetría por ejemplo:
 -
-		Top ruteo horizontal.
+		Top ruteo horizontal y Bottom Ruteo Vertical
 		
-.. image:: ../media/img/pcb4.png
+.. image:: ../media/img/pcb3.png
    :align: center
    :scale: 100 %  
- 	
 
-		Bottom Ruteo Vertical.
 
 .. image:: ../media/img/pcb4.png
    :align: center
