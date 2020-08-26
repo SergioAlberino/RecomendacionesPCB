@@ -175,13 +175,13 @@ Consideraciones Generales
         una simetría por ejemplo:
 
 
-        -   Top ruteo horizontal.
+     Top ruteo horizontal.
 
 	.. image:: ../media/img/pcb3.png
 	   :align: center
 	   :scale: 100 %  	
 		
-		-   Bottom Ruteo Vertical.
+	 Bottom Ruteo Vertical.
 
 	.. image:: ../media/img/pcb4.png
 	   :align: center
@@ -194,6 +194,7 @@ Consideraciones Generales
 
 Cristal para un microcontrolador
 -----------------------
+
 
 	.. image:: ../media/img/xtal1.png
 	   :align: left
