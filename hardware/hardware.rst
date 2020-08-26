@@ -27,7 +27,7 @@ Tips de Diseño de HW
 
 .. image:: ../media/img/hardware1.png
    :align: center
-   :scale: 100 %  
+   :scale: 130 %  
 
 -   Utilizar los conectores globales del circuito (GND, Vcc, Vdd, etc.) para
     evitar líneas muy largas o que se crucen con otras. Además, esto permite un
@@ -172,9 +172,7 @@ Consideraciones Generales
         una simetría de ruteo y respetarla.
 
         Es decir, en un diseño de PCB de dos capas (Top y Bottom), seleccionar
-        una simetría por ejemplo:
--
-		Top ruteo horizontal y Bottom Ruteo Vertical
+        una simetría por ejemplo: Top ruteo horizontal y Bottom Ruteo Vertical
 		
 .. image:: ../media/img/pcb3.png
    :align: center
@@ -189,6 +187,41 @@ Consideraciones Generales
 >   Lo mismo se mantiene para N cantidad de capas.
 
 
+Disposición de componentes y conectores
+-----------------------
+
+.. image:: ../media/img/disp1.png
+   :align: center
+   :scale: 100 %  
+
+
+-   Siempre elegir y respetar una alineación de componentes. Esto ordena y
+    facilita el diseño.
+
+    -   Los capacitores de filtro siempre deben ir lo más cerca posible del
+        circuito integrado a filtrar.  
+		
+
+    -   En lo posible mantener una distribución de componentes homogénea en toda
+        la placa.  
+		
+
+.. image:: ../media/img/disp2.png
+   :align: center
+   :scale: 100 %  
+   
+
+    -   Las protecciones deben ir lo más cerca posible de los conectores
+        asociados para evitar la propagación de ruido o tensiones perjudiciales
+        por la placa (TVS, diodo de inversión de polaridad, optoacopladores,
+        polyswitch,etc).  
+		
+		
+
+	- Si hay conectores que involucran alimentación (típicamente un conector para un sensor que tiene líneas de alimentación y líneas de datos) es importante que los
+mismos sean del tipo “polarizado”, es decir, que solo puedan (físicamente) conectarse en la forma correcta, ya que de conectarse de otra forma podría ocasionar daños a la placa o a aquello que conecta. 
+		
+		
 
 
 Cristal para un microcontrolador
@@ -236,13 +269,8 @@ Cristal para un microcontrolador
     -   Anillo de protección.
 
 
-Conectores polarizados
------------------
-Si hay conectores que involucran alimentación (típicamente un conector para un
-sensor que tiene líneas de alimentación y líneas de datos) es importante que los
-mismos sean del tipo “polarizado”, es decir, que solo puedan (físicamente)
-conectarse en la forma correcta, ya que de conectarse de otra forma podría
-ocasionar daños a la placa o a aquello que conecta.
+
+
 
 
 Fuentes Switching
