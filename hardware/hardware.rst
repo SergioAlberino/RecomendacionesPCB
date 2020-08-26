@@ -203,10 +203,9 @@ Disposición de componentes y conectores
 		
 
     -   En lo posible mantener una distribución de componentes homogénea en toda
-        la placa.  
+        la placa.
 		
-
-.. image:: ../media/img/disp2.png
+	.. image:: ../media/img/disp2.png
    :align: center
    :scale: 100 %  
    
@@ -218,10 +217,12 @@ Disposición de componentes y conectores
 		
 		
 
-	- Si hay conectores que involucran alimentación (típicamente un conector para un sensor que tiene líneas de alimentación y líneas de datos) es importante que los
-mismos sean del tipo “polarizado”, es decir, que solo puedan (físicamente) conectarse en la forma correcta, ya que de conectarse de otra forma podría ocasionar daños a la placa o a aquello que conecta. 
-		
-		
+	- Si hay conectores que involucran alimentación (típicamente un conector para un
+sensor que tiene líneas de alimentación y líneas de datos) es importante que los
+mismos sean del tipo “polarizado”, es decir, que solo puedan (físicamente)
+conectarse en la forma correcta, ya que de conectarse de otra forma podría
+ocasionar daños a la placa o a aquello que conecta.
+
 
 
 Cristal para un microcontrolador
