@@ -204,6 +204,8 @@ Cristal para un microcontrolador
 	   :align: right
 	   :scale: 100 %
 
+***
+
 
 -   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
     estabilizar la frecuencia de oscilación, también forman parte de una red de
