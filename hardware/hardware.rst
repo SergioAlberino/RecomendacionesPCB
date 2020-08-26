@@ -194,35 +194,28 @@ Disposición de componentes y conectores
    :align: center
    :scale: 100 %  
 
-
 -   Siempre elegir y respetar una alineación de componentes. Esto ordena y
     facilita el diseño.
 
-    -   Los capacitores de filtro siempre deben ir lo más cerca posible del
-        circuito integrado a filtrar.  
-		
+-   Los capacitores de filtro siempre deben ir lo más cerca posible del circuito
+    integrado a filtrar.
 
-    -   En lo posible mantener una distribución de componentes homogénea en toda
-        la placa.
+-   En lo posible mantener una distribución de componentes homogénea en toda la
+    placa.
 		
 .. image:: ../media/img/disp2.png
    :align: center
    :scale: 100 %  
    
+-   Las protecciones deben ir lo más cerca posible de los conectores asociados
+    para evitar la propagación de ruido o tensiones perjudiciales por la placa
+    (TVS, diodo de inversión de polaridad, optoacopladores, polyswitch,etc).
 
-    -   Las protecciones deben ir lo más cerca posible de los conectores
-        asociados para evitar la propagación de ruido o tensiones perjudiciales
-        por la placa (TVS, diodo de inversión de polaridad, optoacopladores,
-        polyswitch,etc).  
-		
-		
-
-	- Si hay conectores que involucran alimentación (típicamente un conector para un
-sensor que tiene líneas de alimentación y líneas de datos) es importante que los
-mismos sean del tipo “polarizado”, es decir, que solo puedan (físicamente)
-conectarse en la forma correcta, ya que de conectarse de otra forma podría
-ocasionar daños a la placa o a aquello que conecta.
-
+-   Si hay conectores que involucran alimentación (típicamente un conector para
+    un sensor que tiene líneas de alimentación y líneas de datos) es importante
+    que los mismos sean del tipo “polarizado”, es decir, que solo puedan
+    (físicamente) conectarse en la forma correcta, ya que de conectarse de otra
+    forma podría ocasionar daños a la placa o a aquello que conecta.
 
 
 Cristal para un microcontrolador
