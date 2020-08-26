@@ -202,9 +202,8 @@ Disposición de componentes y conectores
 
 -   En lo posible mantener una distribución de componentes homogénea en toda la
     placa.
-		
-.. image:: ../media/img/disp2.png
-   :align: center
+.. image:: ../media/img/disp1.png
+   :align: right
    :scale: 100 %  
    
 -   Las protecciones deben ir lo más cerca posible de los conectores asociados
