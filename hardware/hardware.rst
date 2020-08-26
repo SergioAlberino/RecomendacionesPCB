@@ -175,9 +175,10 @@ Consideraciones Generales
         una simetría por ejemplo:
 -
 		Top ruteo horizontal.
-.. image:: ../media/img/pcb3.png
-	:align: center
-	:scale: 100 %  
+		
+.. image:: ../media/img/pcb4.png
+   :align: center
+   :scale: 100 %  
  	
 
 		Bottom Ruteo Vertical.
@@ -197,14 +198,14 @@ Cristal para un microcontrolador
 
 
 	.. image:: ../media/img/xtal1.png
-	   :align: left
+	   :align: center
 	   :scale: 100 %
 	   
 	.. image:: ../media/img/xtal2.png
-	   :align: right
+	   :align: center
 	   :scale: 100 %
 
-***
+
 
 
 -   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
@@ -259,7 +260,9 @@ especial el nodo de realimentación.
 
 
 
-
+	.. image:: ../media/img/switch1.png
+	   :align: center
+	   :scale: 100 %  	
 
     -   Priorizar la reducción de espacio frente a la alineación de componentes
         en las fuentes switching. Es decir los componentes pueden no estar
