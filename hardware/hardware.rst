@@ -234,9 +234,9 @@ Cristal para un microcontrolador
 
 
 
--   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
-    estabilizar la frecuencia de oscilación, también forman parte de una red de
-    adaptación y la misma debe estar entre los circuitos a adaptar.
+	-   Si bien los capacitores que acompañan al Cristal (C1 y C2) ayudan a
+		estabilizar la frecuencia de oscilación, también forman parte de una red de
+		adaptación y la misma debe estar entre los circuitos a adaptar.
 
     -   Ambos capacitores deben estar lo más cerca posible entre sí y sus
         respectivos pines.
