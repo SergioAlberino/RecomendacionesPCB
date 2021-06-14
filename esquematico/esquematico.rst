@@ -50,7 +50,7 @@ Información
 -   Agregar al esquemático toda información extra que pueda ser de utilidad. Por
     ejemplo: Títulos, Tablas de valores , indicaciones de soldado de algún
     componente o cualquier tipo de información que sea de utilidad a la hora del
-    soldado o armado del PCB.  
+    soldado o armado del PCB. Links a especificaciones del fabricante.
 
 -   Los componentes deben presentar de manera visible su información mínima , y
     el resto debe quedar oculta. Esto se hace para reducir información
@@ -89,6 +89,15 @@ Jerarquías
 
 Alimentación
 ---------
+
+-   Para simplificar el cableado, es conveniente utilizar símbolos que 
+refieran a los Nodos de alimentación. Es decir utilizar etiquetas 
+predefinidas con las tensiones a las que se va a conectar un elemento 
+del circuito. Los nodos de tensión positiva generalmente se indican 
+con una flecha hacia arriba y el valor de tensión, mientras los nodos 
+de tierra/masa apuntan hacia abajo.
+
+
 
 -   En la medida de lo posible identificar las distintas tensiones de la
     siguiente manera:
