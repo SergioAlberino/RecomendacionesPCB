@@ -15,6 +15,7 @@ Tips Esquemático
 -   En la medida de lo posible, separar el circuito en distintos esquemas
     independientes permitiendo la reutilización de circuitos. Por ejemplo un
     proyecto fácilmente puede ser separado en los siguientes esquemáticos:  
+    
 	
 
     1.  Alimentación  
