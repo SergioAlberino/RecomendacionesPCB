@@ -91,11 +91,11 @@ Alimentación
 ---------
 
 -   Para simplificar el cableado, es conveniente utilizar símbolos que 
-refieran a los Nodos de alimentación. Es decir utilizar etiquetas 
-predefinidas con las tensiones a las que se va a conectar un elemento 
-del circuito. Los nodos de tensión positiva generalmente se indican 
-con una flecha hacia arriba y el valor de tensión, mientras los nodos 
-de tierra/masa apuntan hacia abajo.
+    refieran a los Nodos de alimentación. Es decir utilizar etiquetas 
+    predefinidas con las tensiones a las que se va a conectar un elemento 
+    del circuito. Los nodos de tensión positiva generalmente se indican 
+    con una flecha hacia arriba y el valor de tensión, mientras los nodos 
+    de tierra/masa apuntan hacia abajo.
 
 
 
