@@ -33,6 +33,17 @@ Tips Esquemático
     5.  Etc.
 	
 
+-   Tratar de mantener los esquemas sencillos y ordenados, y no generar
+    “esquemáticos laberintos”.
+
+-   Identificar los “cables” con NETS o nombres de manera que esos nombres se
+    trasladen al PCB.
+
+-   Si hay algún componente que, de manera obligatoria, debe ir cerca de otro
+    componente indicarlo en el esquemático de alguna manera. Colocándolos juntos
+    por ejemplo.
+
+
 Información 
 ---------
 
@@ -60,27 +71,20 @@ Y el resto de la información (Fabricante, número de pieza, etc) permanecerá
 oculta.  
 
 
+Jerarquías
+---------
+
 -   En el caso de separar el diseño en distintos esquemas generando un esquema
     de jerarquías, los conectores de entradas y salidas deben ir en el
     esquemático principal. Esto ayuda a entender cuales son las entradas y
     salidas del PCB de manera más rápida y sencilla.  
 	
-
   
 .. image:: ../media/img/esquematico1.png
    :align: center
    :scale: 100 %   
 
 
--   Tratar de mantener los esquemas sencillos y ordenados, y no generar
-    “esquemáticos laberintos”.
-
--   Identificar los “cables” con NETS o nombres de manera que esos nombres se
-    trasladen al PCB.
-
--   Si hay algún componente que, de manera obligatoria, debe ir cerca de otro
-    componente indicarlo en el esquemático de alguna manera. Colocándolos juntos
-    por ejemplo.
 
 
 Alimentación
