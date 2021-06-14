@@ -5,7 +5,7 @@
    
 
 Tips Esquemático
----------
+==============================
 
 
 -   Los esquemáticos deben ser leídos de izquierda a derecha, es decir las
