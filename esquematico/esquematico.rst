@@ -33,11 +33,13 @@ Tips Esquemático
     5.  Etc.
 	
 
+Información 
+---------
+
 -   Agregar al esquemático toda información extra que pueda ser de utilidad. Por
     ejemplo: Títulos, Tablas de valores , indicaciones de soldado de algún
     componente o cualquier tipo de información que sea de utilidad a la hora del
     soldado o armado del PCB.  
-	
 
 -   Los componentes deben presentar de manera visible su información mínima , y
     el resto debe quedar oculta. Esto se hace para reducir información
@@ -80,6 +82,10 @@ oculta.
     componente indicarlo en el esquemático de alguna manera. Colocándolos juntos
     por ejemplo.
 
+
+Alimentación
+---------
+
 -   En la medida de lo posible identificar las distintas tensiones de la
     siguiente manera:
 
@@ -93,14 +99,19 @@ oculta.
 
 	-   \+/- Indica la polaridad de la fuente
 
-Ejemplo: +3V3, +5V , -3V3.
+	Ejemplo: +3V3, +5V , -3V3.
 
-   Esto se hace así dado que algunos CAD permiten filtrar elementos por nombre y aplicar distintas reglas a los nombres elegidos. El signo delante del valor de tensión optimiza la búsqueda de nombres
+   Esto se hace así dado que algunos CAD permiten filtrar elementos por nombre y aplicar distintas reglas a los nombres elegidos. 
+   El signo delante del valor de tensión optimiza la búsqueda de nombres.
 
   
 .. image:: ../media/img/esquematico2.png
    :align: center
    :scale: 100 %  
+
+
+Conexiones
+---------
 
 -   En caso de tener más de tres conexiones en un mismo nodo, evitar la conexión
     en cruz dado que alguno de los cables podría no estar realmente unido y no
