@@ -27,6 +27,9 @@ Tips Esquemático
 	
 
     4.  Sensor 2  
+    
+    
+    5.  Etc.
 	
 
 -   Agregar al esquemático toda información extra que pueda ser de utilidad. Por
